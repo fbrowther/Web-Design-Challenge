@@ -5,7 +5,7 @@ As a part of this project I was required to design a website to showcase the res
 # Deployed web appliciation -
 #### Please visit: https://fbrowther.github.io/Web-Design-Challenge/
     
-## The website consist of seven pages in total, including:
+# The website consist of seven pages in total, including:
 
 ### (1) A landing page containing the following elements -
     (a) An explanation of the project.
