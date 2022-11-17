@@ -2,9 +2,11 @@
 
 As a part of this project I was required to design a website to showcase the results of API weather data project (https://github.com/fbrowther/API-Challenge) 
 
+
 # Deployed web appliciation -
 #### Please visit: https://fbrowther.github.io/Web-Design-Challenge/
     
+
 # The website consist of seven pages in total, including:
 
 ### (1) A landing page containing the following elements -
