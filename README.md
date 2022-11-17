@@ -18,10 +18,10 @@ As a part of this project I was required to design a website to showcase the res
 ### (3) A "Comparisons" page:
     (a) Contains all of the visualizations on the same page so they can be easily compared with each other.
 
-### (4) Uses a Bootstrap grid for the visualizations.
+### (4) Bootstrap grid for the visualizations.
     (a) The grid has two visualizations across medium and large screens.
 
-### (5) Finally a "Data" page that displays a responsive table containing the data used in the visualizations.
+### (5) "Data" page that displays a responsive table containing the data used in the visualizations.
     (a) Pandas dataframe created from cities.csv file using pandas read_csv; 
     (b) Pandas dataframe cleaned and converted to data.html file using the data.to_html() function.
 
