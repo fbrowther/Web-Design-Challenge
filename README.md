@@ -1,29 +1,33 @@
-# Web-Design-Challenge
+# Web-Design-Challenge 
+
 As a part of this project I was required to design a website to showcase the results of API weather data project (https://github.com/fbrowther/API-Challenge) 
 
 ## The website consist of seven pages in total, including:
 
-### (1) A landing page containing the following elements:
+### (1) A landing page containing the following elements -
     (a) An explanation of the project.
     (b) Links to each visualizations page. 
     (c) A sidebar containing preview images of each plot. 
     (d) Clicking an image should take the user to that visualization.
 
-### (2) There are 4 visualization pages, one for each plot (plot 1-4) with the following elements:
+### (2) There are 4 visualization pages, one for each plot (plot 1-4) with the following elements -
     (a) A descriptive title and heading tag.
     (b) A visualization plot for the selected comparison (latitude vs: max temperature, humidity, cloudiness, or wind speed). 
     (c) The images displayed are stored in the assets/images folder.
     (d) A paragraph describing the plot and its significance.
 
-### (3) A "Comparisons" page:
+### (3) A "Comparisons" page -
     (a) Contains all of the visualizations on the same page so they can be easily compared with each other.
 
-### (4) Bootstrap grid for the visualizations.
+### (4) Bootstrap grid for the visualizations -
     (a) The grid has two visualizations across medium and large screens.
 
-### (5) "Data" page that displays a responsive table containing the data used in the visualizations.
+### (5) "Data" page that displays a responsive table containing the data used in the visualizations -
     (a) Pandas dataframe created from cities.csv file using pandas read_csv; 
     (b) Pandas dataframe cleaned and converted to data.html file using the data.to_html() function.
+
+### (6) Deployed web appliciation -
+    (a) Please visit: 
 
 
 ## Home (Large)
