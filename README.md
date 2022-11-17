@@ -14,14 +14,14 @@ As a part of this project I was required to design a website to showcase the res
     (c) A paragraph describing the plot and its significance was included.
 
 ### (3) A "Comparisons" page:
-    It contains all of the visualizations on the same page so they can be easily compared with each other.
+    (a) It contains all of the visualizations on the same page so they can be easily compared with each other.
 
 ### (4) Uses a Bootstrap grid for the visualizations.
-    The grid has two visualizations across medium and large screens.
+    (a) The grid has two visualizations across medium and large screens.
 
 ### (5) Finally a "Data" page that displays a responsive table containing the data used in the visualizations.
-    The data table (data.html) was created from cities.csv file using pandas read_csv; followed by its conversion to pandas dataframe, clean and 
-    then convert it to data.html file using the data.to_html() function.
+    (a) The data table (data.html) was created from cities.csv file using pandas read_csv; 
+    (b) This was followed by its conversion to pandas dataframe, cleaned and then convert it to data.html file using the data.to_html() function.
 
 
 ## Home (Large)
