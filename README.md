@@ -2,6 +2,9 @@
 
 As a part of this project I was required to design a website to showcase the results of API weather data project (https://github.com/fbrowther/API-Challenge) 
 
+# Deployed web appliciation -
+Please visit: https://fbrowther.github.io/Web-Design-Challenge/
+    
 ## The website consist of seven pages in total, including:
 
 ### (1) A landing page containing the following elements -
@@ -25,9 +28,6 @@ As a part of this project I was required to design a website to showcase the res
 ### (5) "Data" page that displays a responsive table containing the data used in the visualizations -
     (a) Pandas dataframe created from cities.csv file using pandas read_csv; 
     (b) Pandas dataframe cleaned and converted to data.html file using the data.to_html() function.
-
-### (6) Deployed web appliciation -
-    (a) Please visit: https://fbrowther.github.io/Web-Design-Challenge/
 
 
 ## Home (Large)
