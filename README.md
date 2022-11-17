@@ -27,7 +27,7 @@ The website consist of seven pages in total, including:
 
 
 Home (Large)
-![alt text](https://github.com/fbrowther/Web-Design-Challenge/blob/main/Images%20for%20readme/Large/Home%20Dropdown%20plots.png)
+![alt text](https://github.com/fbrowther/Web-Design-Challenge/blob/main/Images%20for%20readme/Large/Home.png)
 Comparisons (Large)
 ![alt text](https://github.com/fbrowther/Web-Design-Challenge/blob/main/Images%20for%20readme/Large/Comparisons.png)
 Plot1 (Large)
