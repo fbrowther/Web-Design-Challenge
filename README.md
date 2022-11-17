@@ -5,23 +5,25 @@ As a part of this project I was required to design a website to showcase the res
 
 ### (1) A landing page containing the following elements:
     (a) An explanation of the project.
-    (b) Links to each visualizations page. A sidebar containing preview images of each plot. Clicking an image should take the user to that visualization.
+    (b) Links to each visualizations page. 
+    (c) A sidebar containing preview images of each plot. 
+    (d) Clicking an image should take the user to that visualization.
 
 ### (2) There are 4 visualization pages, one for each plot (plot 1-4) with the following elements:
     (a) A descriptive title and heading tag.
-    (b) The plot or visualization for the selected comparison (latitude vs: max temperature, humidity, cloudiness, or wind speed). 
-    (c) The images displayed on these pages are stored in the assets/images folder.
-    (d) A paragraph describing the plot and its significance was included.
+    (b) A visualization plot for the selected comparison (latitude vs: max temperature, humidity, cloudiness, or wind speed). 
+    (c) The images displayed are stored in the assets/images folder.
+    (d) A paragraph describing the plot and its significance.
 
 ### (3) A "Comparisons" page:
-    (a) It contains all of the visualizations on the same page so they can be easily compared with each other.
+    (a) Contains all of the visualizations on the same page so they can be easily compared with each other.
 
 ### (4) Uses a Bootstrap grid for the visualizations.
     (a) The grid has two visualizations across medium and large screens.
 
-### (5) Finally a "Data" page that displays a responsive table containing the data used in the visualizations.
-    (a) The data table (data.html) was created from cities.csv file using pandas read_csv; 
-    (b) This was followed by its conversion to pandas dataframe, cleaned and then convert it to data.html file using the data.to_html() function.
+### (5) Finally a "Data" page that displays a responsive table containing the data used in the visualizations.
+    (a) Pandas dataframe created from cities.csv file using pandas read_csv; 
+    (b) Pandas dataframe cleaned and converted to data.html file using the data.to_html() function.
 
 
 ## Home (Large)
