@@ -27,7 +27,7 @@ As a part of this project I was required to design a website to showcase the res
     (b) Pandas dataframe cleaned and converted to data.html file using the data.to_html() function.
 
 ### (6) Deployed web appliciation -
-    (a) Please visit: 
+    (a) Please visit: https://fbrowther.github.io/Web-Design-Challenge/
 
 
 ## Home (Large)
