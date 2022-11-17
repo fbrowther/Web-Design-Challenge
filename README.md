@@ -10,8 +10,8 @@ As a part of this project I was required to design a website to showcase the res
 ### (2) There are 4 visualization pages, one for each plot (plot 1-4) with the following elements:
     (a) A descriptive title and heading tag.
     (b) The plot or visualization for the selected comparison (latitude vs: max temperature, humidity, cloudiness, or wind speed). 
-        The images displayed on these pages are stored in the assets/images folder.
-    (c) A paragraph describing the plot and its significance was included.
+    (c) The images displayed on these pages are stored in the assets/images folder.
+    (d) A paragraph describing the plot and its significance was included.
 
 ### (3) A "Comparisons" page:
     (a) It contains all of the visualizations on the same page so they can be easily compared with each other.
