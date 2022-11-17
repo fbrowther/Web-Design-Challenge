@@ -28,32 +28,56 @@ The website consist of seven pages in total, including:
 
 Home (Large)
 ![alt text](https://github.com/fbrowther/Web-Design-Challenge/blob/main/Images%20for%20readme/Large/Home.png)
+
+
 Comparisons (Large)
 ![alt text](https://github.com/fbrowther/Web-Design-Challenge/blob/main/Images%20for%20readme/Large/Comparisons.png)
+
+
 Plot1 (Large)
 ![alt text](https://github.com/fbrowther/Web-Design-Challenge/blob/main/Images%20for%20readme/Large/Plot%201.png)
+
+
 Plot2 (Large)
 ![alt text](https://github.com/fbrowther/Web-Design-Challenge/blob/main/Images%20for%20readme/Large/Plot%202.png)
+
+
 Plot3 (Large)
 ![alt text](https://github.com/fbrowther/Web-Design-Challenge/blob/main/Images%20for%20readme/Large/Plot%203.png)
+
+
 Plot4 (Large)
 ![alt text](https://github.com/fbrowther/Web-Design-Challenge/blob/main/Images%20for%20readme/Large/Plot%204.png)
+
+
 Data (Large)
 ![alt text](https://github.com/fbrowther/Web-Design-Challenge/blob/main/Images%20for%20readme/Large/Data.png)
 
 
 Home (Small)
 ![alt text](https://github.com/fbrowther/Web-Design-Challenge/blob/main/Images%20for%20readme/Small/Home%20-%20Small.png)
+
+
 Comparisons (Large)
 ![alt text](https://github.com/fbrowther/Web-Design-Challenge/blob/main/Images%20for%20readme/Small/Comparisons%20-%20Small.png)
+
+
 Plot1 (Small)
 ![alt text](https://github.com/fbrowther/Web-Design-Challenge/blob/main/Images%20for%20readme/Small/Plot%201%20-%20Small.png)
+
+
 Plot2 (Small)
 ![alt text](https://github.com/fbrowther/Web-Design-Challenge/blob/main/Images%20for%20readme/Small/Plot%202%20-%20Small.png)
+
+
 Plot3 (Small)
 ![alt text](https://github.com/fbrowther/Web-Design-Challenge/blob/main/Images%20for%20readme/Small/Plot%203%20-%20Small.png)
+
+
 Plot4 (Small)
 ![alt text](https://github.com/fbrowther/Web-Design-Challenge/blob/main/Images%20for%20readme/Small/Plot%204%20-%20Small.png)
+
+
 Data (Small)
 ![alt text](https://github.com/fbrowther/Web-Design-Challenge/blob/main/Images%20for%20readme/Small/Data%20-Small.png)
 
