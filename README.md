@@ -15,7 +15,7 @@ As a part of this project I was required to design a website to showcase the res
     (c) A sidebar containing preview images of each plot. 
     (d) Clicking an image should take the user to that visualization.
 
-### (2) There are 4 visualization pages, one for each plot (plot 1-4) with the following elements -
+### (2) 4 visualization pages, one for each plot (plot 1-4) with the following elements -
     (a) A descriptive title and heading tag.
     (b) A visualization plot for the selected comparison (latitude vs: max temperature, humidity, cloudiness, or wind speed). 
     (c) The images displayed are stored in the assets/images folder.
